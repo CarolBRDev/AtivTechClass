@@ -1,0 +1,13 @@
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\ProblRetangulo\ProblRetangulo\ProblRetangulo\bin\Debug\netcoreapp3.1\ProblRetangulo.exe
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\ProblRetangulo\ProblRetangulo\ProblRetangulo\bin\Debug\netcoreapp3.1\ProblRetangulo.deps.json
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\ProblRetangulo\ProblRetangulo\ProblRetangulo\bin\Debug\netcoreapp3.1\ProblRetangulo.runtimeconfig.json
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\ProblRetangulo\ProblRetangulo\ProblRetangulo\bin\Debug\netcoreapp3.1\ProblRetangulo.runtimeconfig.dev.json
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\ProblRetangulo\ProblRetangulo\ProblRetangulo\bin\Debug\netcoreapp3.1\ProblRetangulo.dll
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\ProblRetangulo\ProblRetangulo\ProblRetangulo\bin\Debug\netcoreapp3.1\ProblRetangulo.pdb
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\ProblRetangulo\ProblRetangulo\ProblRetangulo\obj\Debug\netcoreapp3.1\ProblRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\ProblRetangulo\ProblRetangulo\ProblRetangulo\obj\Debug\netcoreapp3.1\ProblRetangulo.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\ProblRetangulo\ProblRetangulo\ProblRetangulo\obj\Debug\netcoreapp3.1\ProblRetangulo.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\ProblRetangulo\ProblRetangulo\ProblRetangulo\obj\Debug\netcoreapp3.1\ProblRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\ProblRetangulo\ProblRetangulo\ProblRetangulo\obj\Debug\netcoreapp3.1\ProblRetangulo.dll
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\ProblRetangulo\ProblRetangulo\ProblRetangulo\obj\Debug\netcoreapp3.1\ProblRetangulo.pdb
+C:\Users\carol\OneDrive\Documentos\Aulas Thiago\C#\ProblRetangulo\ProblRetangulo\ProblRetangulo\obj\Debug\netcoreapp3.1\ProblRetangulo.genruntimeconfig.cache
